@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "glad.h": "c",
+        "generate.h": "cpp",
+        "window.h": "cpp"
+    }
+}
