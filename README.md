@@ -1,12 +1,14 @@
 # GeneProject #
 
-This Gene Project is a hobby brainchild born originally due to a hatred for punnett squares and the desire to trace alleles through multiple generations. It grew into a desire to emulate artificial selection through code (not IN code, I'm not doing AI code-writing-code), selecting and breeding in order to produce desired results. The program is built using C++ (using very intro level code), uses the G++ compiler, uses GLFW and Glad in order to provide platform-independent graphics for the user interface.  
+This Gene Project is a hobby brainchild born originally due to a hatred for punnett squares and the desire to trace alleles through multiple generations. It grew into a desire to emulate artificial selection through code (not IN code, I'm not doing AI code-writing-code), selecting and breeding in order to produce desired results. The program is built using C++ (using very intro level code), uses the G++ compiler, uses GLFW and Glad in order to provide platform-independent graphics for the user interface. This is my first program, my first c++ program, my first cross-platform program, etc, etc., so it's a massive learning experience for me.
+\
+As of the moment, the code doesn't do anything with the phenotypes, therefore the genome could be anything. However, I'm currently (and going to continue to) code it using Cannabis *sativa.* Not only is it the field I'm interested in, it's the whole reason this program was birthed. The plant has many applicable uses in human society, and while the base code is merely even a skeleton the end result might show a unique view of the plant and maybe even genetic studies as well. As well as have a very useful gene program under the hood, extendable and applicable to many applications.
 
 ### Code Information
-- Made in VSCode
 - Uses G++ terminal code in order to compile (MinGW must be installed in the case of Windows)
 - Currently uses a .bat (Windows Batch) shell script
 - Uses a .exe file
+- Made in VSCode (The free Microsoft text editor that isn't an IDE. I know I could be using an IDE, but I stared with VSCode & I don't want to download another program, etc, etc. I'll deal with the added complexity, more learning)
 
 #
 \
@@ -29,7 +31,7 @@ In order to fulfill these roles, the program MUST:
 #
 
 ### Completed:
-- GLFW, Glad integrated (Graphics interface, in order to ty and fulfill the first role)
+- GLFW, Glad integrated (Graphics interface, in order to ty and fulfill the first role) (Like... 97% github.com/markfaction 's work. I just modified it as needed 'till it worked, then integrated it with what I had. So, yeah. Shout out to that guy.
   - Basic file structure built, including libraries for Glad, GLFW, and personal libraries
   - Window library, Generate library (contains the random allele sequence generator, the allele reader, and the phenotype transcriber)
   - Currently saves the phenotype to a .txt, can easily be altered to also include gene sequence
@@ -50,7 +52,7 @@ In order to fulfill these roles, the program MUST:
   - There is an intention of "Throwing a game overlay" on top of the simulator (preferably once the simulator is complete, things like growing the phenotypes for profit, choosing where you live influencing the growing environment, therefore altering which phenotypes will suit you.)
   - Something turn-based, like 1 turn = 1 week (subj. to change), you can control light level, water level, fertilizer, etc., move to the next week, reevaluate and repeat.
   - Selling would depend upon (maybe a dynamic) market value, genotypes might have hidden values that influence quality, how you process can alter the quality, etc.
-  - more "farming sim" than "game," is really meant to be more of an engaging user interface
+  - More "farming sim" than "game," is really meant to be more of an engaging user interface
 
 #
 
