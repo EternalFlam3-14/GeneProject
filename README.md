@@ -2,7 +2,7 @@
 
 This Gene Project is a hobby brainchild born originally due to a hatred for punnett squares and the desire to trace alleles through multiple generations. It grew into a desire to emulate artificial selection through code (not IN code, I'm not doing AI code-writing-code), selecting and breeding in order to produce desired results. The program is built using C++ (using very intro level code), uses the G++ compiler, uses GLFW and Glad in order to provide platform-independent graphics for the user interface. This is my first program, my first c++ program, my first cross-platform program, etc, etc., so it's a massive learning experience for me.
 
-###In order to run
+### In order to run
  - Download app.exe
  - Unfortunately you might have a lot of Windows Defender errors. The more it's downloaded, the faster it'll go away I guess...
  - Run
