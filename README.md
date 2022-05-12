@@ -24,7 +24,7 @@ This Gene Project is a hobby brainchild born originally due to a hatred for punn
 #
 
 ### If you are interested in helping me with the project
-- Any coders who can help debug and run the code successfully cross-platform
+- Anyone who can help debug and run the code successfully cross-platform
 - Able to shrink C++ while still keeping it modular, legible & expandable
 - Pretty much anyone who made it this far, is interested in assisting the project, and can find something in the To Do List that they want to do. (To Do List found in the Wiki)
 You can find my information on GitHub. 
